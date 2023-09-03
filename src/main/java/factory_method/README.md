@@ -1,0 +1,1 @@
+The purpose of using this pattern is to prevent classes explosion just by combination parameters
